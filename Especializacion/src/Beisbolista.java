@@ -1,5 +1,5 @@
-class Voleibolista extends Deportista {
-    public void rematar() {
-        System.out.println("El voleibolista realiza un remate.");
+class Beisbolista extends Deportista {
+    public void batear() {
+        System.out.println("El beisbolista batea la pelota con el bate.");
     }
 }
